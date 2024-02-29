@@ -44,6 +44,7 @@ button {
 .nb-header {
   border-bottom: 1px solid #e7e9fc;
   gap: 40px;
+  display: flex;
 }
 
 .header-container {
@@ -91,7 +92,7 @@ button {
 .list {
   justify-content: center;
   display: flex;
-  gap: 40px;
+  margin-right: 40px;
 }
 
 .list-titem-last {
